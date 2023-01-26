@@ -12,3 +12,5 @@ any party can recreate bit-by-bit identical copies of all specified artifacts. [
 
 
 [^1]: https://reproducible-builds.org/docs/definition/
+
+Syncopated is built upon [ArchLabs](https://archlabslinux.com), a variant of Arch Linux. 
