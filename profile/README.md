@@ -6,4 +6,4 @@ a fork of [ArchLabs](https://archlabslinux.com) Syncopated adds to it a selectio
 
 
 
-[^1]: Open music is music that is shareable, available in "source code" form, allows derivative works and is free of cost for non-commercial use. It is the concept of "open source" computer software applied to music. Which is odd, as in a sense, Music itself would be an example of something created using an open source language.
+[^1]: Open music is music that is shareable, available in "source code" form, allows derivative works and is free of cost for non-commercial use. It is the concept of "open source" computer software applied to music. Which is odd as in a sense, "Music" itself would be an example of something created using an open source language.
