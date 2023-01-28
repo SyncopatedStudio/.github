@@ -2,7 +2,7 @@
 
 a Linux distribution intended for Audio Engineering and Open Music[^1] production within an collective studio ecosystem.
 
-a fork of [ArchLabs](https://archlabslinux.com) Syncopated adds to it a selection of some reasonably interesting FOSS applications intended for Musicians, Composers, Audio Engineers and Tinkerers alike.
+Syncopated is a fork of [ArchLabs](https://archlabslinux.com) which adds to it a selection of some reasonably interesting FOSS applications intended for Musicians, Composers, Audio Engineers and Tinkerers alike.
 
 
 
