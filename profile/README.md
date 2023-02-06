@@ -1,6 +1,6 @@
 # :musical_score:	Syncopated Linux
 
-A Linux distribution for Open Music [^1]
+A concept for an Open Music [^1] distribution.
 
 Within it a selection of well designed and reasonably interesting FOSS applications intended for Musicians, Composers, Audio Engineers and Tinkerers alike.
 
