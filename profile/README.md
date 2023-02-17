@@ -1,12 +1,12 @@
-# :musical_score:	Syncopated Studio
+# :keyboard: Syncopated Studio :musical_score:
 
-Intended for Musicians, Composers, Audio Engineers and Tinkerers alike for life cycle maintenance of an audio production environment that uses Linux as a base operating system.
+Intended for Musicians, Progammers, Composers, Engineers and Tinkerers alike for the configuration and maintenance of a collective studio that focuses on Audio Production.
 
-# Configuration Management
+## Configuration Management
 
 Ansible tied together with Bash and Ruby
 
-# Packages
+## Software
 
 A selection of well designed FOSS applications 
 
