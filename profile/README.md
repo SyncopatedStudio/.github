@@ -1,6 +1,8 @@
 # :keyboard: Syncopated Studio :musical_score:
 
-Intended for Musicians, Progammers, Composers, Engineers and Tinkerers alike for the configuration and maintenance of a collective studio that focuses on Audio Production.
+For the configuration and maintenance of a collective studio that focuses on Audio Production. 
+
+Intended for Musicians, Progammers, Composers, Engineers and Tinkerers alike.
 
 ## Configuration Management
 
