@@ -8,7 +8,7 @@ Intended for Musicians, Progammers, Composers, Engineers and Tinkerers alike.
 
 Ansible tied together with Bash and Ruby
 
-## Software
+## Repository
 
 A selection of well designed FOSS applications 
 
